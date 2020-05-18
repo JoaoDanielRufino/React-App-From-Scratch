@@ -70,7 +70,7 @@ To run webpack-dev-server use the command:
 ```bash
 yarn webpack-dev-server
 ```
-## Aditional loaders
+## Additional loaders
 Let's install **svg** and **file** loaders to handle image imports.
 
 ```bash
@@ -101,7 +101,7 @@ yarn jest --init
 This will create a **jest.config.js** file and you can edit however you want.
 For more details click [here](https://jestjs.io/docs/en/configuration).
 
-## Aditional scripts
+## Additional scripts
 To facilitate bash commands, add a ***scripts*** section on **package.json** file.
 
 ```json
